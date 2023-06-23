@@ -1,6 +1,6 @@
 # ode4j experimental version on GWT libGDX
 
-Note: after doing extensive perfromance tests, I have decided to abandon this effort.  Currently this is the only working 3D physics library working in the official libGDX GWT backend that I know of.  However the perforamance for games is lacking.
+Note: after doing extensive perfromance tests, I have decided to abandon this effort.  Currently this is the only working 3D physics library working in the official libGDX GWT backend that I know of.  However the performance for games is lacking.
 
 ![image](https://github.com/antzGames/ode4j-GWT-Compatible-libGDX/assets/10563814/809301b1-33b9-4e83-bace-7c2489e0b899)
 
