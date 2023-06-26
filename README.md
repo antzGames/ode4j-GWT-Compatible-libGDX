@@ -1,6 +1,6 @@
 # ode4j experimental version on GWT libGDX
 
-This repo is still the only 3D Physics engine that works with the official libGDX GWT backend. However teaVM + Bullet 3.20 is your best choice for the web.  For desktop Physx is the best to use.
+This repo is still the only 3D Physics engine that works with the official libGDX GWT backend. However teaVM + Bullet 3.20 is your best choice for the web.  For desktop PhysX is the best to use.
 
 ![image](https://github.com/antzGames/ode4j-GWT-Compatible-libGDX/assets/10563814/bc1bc6d6-b421-4358-90dd-753b3a92a71e)
 
